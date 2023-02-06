@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\APINewErd.csproj": {}
+    "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\APINewErd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\APINewErd.csproj": {
+    "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\APINewErd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\APINewErd.csproj",
+        "projectUniqueName": "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\APINewErd.csproj",
         "projectName": "APINewErd",
-        "projectPath": "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\APINewErd.csproj",
+        "projectPath": "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\APINewErd.csproj",
         "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\obj\\",
+        "outputPath": "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rifqi\\AppData\\Roaming\\NuGet\\NuGet.Config",

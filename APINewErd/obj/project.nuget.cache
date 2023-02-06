@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+sPH8d9pU2/mcZLWZtAmF6ly4NpDQyzhz3zGH7t3TuQqQhdrTJBllffZt5ixx8Imh4EOQgAHUz1AhvZmJ8jrrw==",
+  "dgSpecHash": "tO5OVQDJqndf4NehQrXCGe/+jsy3ixb+LWAtAlMYRouF1gtFgn4aAIUf4bRKh7AJ6gMOemOab/vp12ITO/h9Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rifqi\\source\\repos\\APINewErd\\APINewErd\\APINewErd.csproj",
+  "projectFilePath": "C:\\Users\\Rifqi\\Documents\\GitHub\\APINewERD\\APINewErd\\APINewErd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rifqi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rifqi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
